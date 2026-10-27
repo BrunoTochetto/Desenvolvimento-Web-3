@@ -1,4 +1,4 @@
-from helcio import ContaBancaria
+from conta import ContaBancaria
 
 # Crie três contas bancárias:
 # Ana Lima: conta 123, saldo inicial de R$ 500,00.
